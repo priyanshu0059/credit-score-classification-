@@ -1,0 +1,30 @@
+
+1.ID: Unique identifier for each record in the dataset.
+
+2.Customer_ID: Unique identifier assigned to each customer.
+3.Month: The month for which the data is recorded.
+4.Name: The name of the customer.
+5.Age: The age of the customer.
+6.SSN: The Social Security Number of the customer.
+7.Occupation: The occupation of the customer.
+8.Annual_Income: The annual income of the customer.
+9.Monthly_Inhand_Salary: The monthly in-hand salary of the customer.
+10.Num_Bank_Accounts: The number of bank accounts the customer has.
+11.Num_Credit_Card: The number of credit cards the customer possesses.
+12.Interest_Rate: The interest rate applied to the customer’s loans or credit.
+13.Num_of_Loan: The number of loans the customer has taken.
+14.Type_of_Loan: The type of loans the customer has taken.
+15.Delay_from_due_date: The delay from the due date for loan repayments or credit card payments.
+16.Num_of_Delayed_Payment: The number of delayed payments made by the customer.
+17.Changed_Credit_Limit: The number of times the credit limit has been changed for the customer.
+18.Num_Credit_Inquiries: The number of credit inquiries made for the customer.
+19.Credit_Mix: The mix of different types of credit the customer has.
+20.Outstanding_Debt: The total outstanding debt of the customer.
+21.Credit_Utilization_Ratio: The ratio of the customer’s credit utilization.
+22.Credit_History_Age: The age of the customer’s credit history.
+23.Payment_of_Min_Amount: Indicates whether the customer pays the minimum amount due or not.
+24.Total_EMI_per_month: The total EMI (Equated Monthly Installment) paid by the customer per month.
+25.Amount_invested_monthly: The amount invested by the customer on a monthly basis.
+26.Payment_Behaviour: The customer’s payment behavior.
+27.Monthly_Balance: The monthly balance in the customer’s account.
+28.Credit_Score: The credit score of the customer.
